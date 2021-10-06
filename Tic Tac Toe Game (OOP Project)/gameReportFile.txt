@@ -1,0 +1,33 @@
+Game 1
+X player win 1 time/s
+
+Game 2
+O player win 1 time/s
+
+Game 3
+O player win 2 time/s
+
+Game 4
+O player win 3 time/s
+
+Game 5
+X player win 2 time/s
+
+Game 6
+X player win 3 time/s
+
+Game 7
+O player win 4 time/s
+
+Game 1
+X player win 1 time/s
+
+Game 2
+X player win 2 time/s
+
+Game 3
+O player win 1 time/s
+
+Game 1
+O player win 1 time/s
+
